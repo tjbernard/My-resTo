@@ -1,4 +1,5 @@
 # My-resTo
+# Jean Bernard T.
 My resTo created to be used to manager restaurant orders
 My resTo contains Four types of users:
      - Admin
