@@ -17,4 +17,8 @@ First you need to login:
     password: myresto
 and you can manage your restaurant, this user has all privillages
 
+#MySql
+
+You will need to create manual database called myresto and import myresto.sql to created database.
+
 
